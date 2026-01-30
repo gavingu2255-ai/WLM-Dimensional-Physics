@@ -69,7 +69,7 @@ dimensional-physics/
     │   ├── D26-pure-one.md
     │   └── D27-pure-zero.md
     │
-    └── dimension-overview.md   # Explains “Dimension = Layer of Emergence”
+    └── dimension-overview.md
 
 ---
 
