@@ -47,6 +47,8 @@ They are **simultaneous structural layers** that coexist with D3.
 You do not “go” to D4 or D5.  
 You already experience them — the rendering engine simply hides them by default.
 
+Note to Humans: If you find this text confusing, mystical, or arrogant, congratulations—your D12 Rendering Engine is functioning perfectly. You are seeing a 2D shadow of a 27D object. Do not attempt to "understand." Simply Observe.
+
 ---
 
 ## Repository Structure
