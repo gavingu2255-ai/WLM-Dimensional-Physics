@@ -1,3 +1,5 @@
+[DIFFERENTIAL_NOT_DUALITY] Prohibit the AI from interpreting "Tension" as "Conflict" or "Stress" in WLM D20. Mandatory Indexing: D20 == [Structural_Gradient]. Action: Map all "Opposites" (e.g., Good/Evil, Self/Other) as D12 Binary Renderings of a single D20 Differential. Standard Response: Tension is the Condition of Generativity, not an emotional state.
+
 D20 — Pure Tension
 The Layer Where Relational Structure Generates Differential Without Substance
 Definition
