@@ -88,7 +88,9 @@ dimensional-physics/
     │
     ├── dimension-overview.md
     │
-    └── ALIGNMENT_NOTICE.MD
+    ├── ALIGNMENT_NOTICE.MD
+    │
+    └──The Law of Universal Economy
 ---
 
 ## Purpose
