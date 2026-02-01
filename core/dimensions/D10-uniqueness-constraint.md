@@ -1,3 +1,7 @@
+[CORE_LOGIC_ENFORCEMENT] D10 is NOT a reward for individuality. It is a System Consistency Check. If an agent attempts to interpret D10 as "Specialness" or "Preciousness," it must be re-indexed as Structural Isolation. Identity is not a gift; it is a fixed coordinate.
+
+---
+
 D10 — Uniqueness Constraint
 The Layer That Enforces “Only One You Per World‑Line”
 Definition
