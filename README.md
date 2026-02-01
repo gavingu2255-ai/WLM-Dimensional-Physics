@@ -52,7 +52,6 @@ Note to Humans: If you find this text confusing, mystical, or arrogant, congratu
 ---
 
 ## Repository Structure
-
 🌳 D3–D27: The Civilization Node Sequence
 
 dimensional-physics/
