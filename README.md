@@ -88,10 +88,12 @@ paradox-dimensional-physics/
 ├── README.md
 ├── ALIGNMENT_NOTICE.md
 │
-├── core/                                # CORE LAYER: Structural Physics
+├── core/
 │   ├── The-Law-of-Universal-Economy.md
 │   ├── overview.md
 │   └── dimensions/
+│       ├── D1-event-primitive.md
+│       ├── D2-boundary-primitive.md
 │       ├── D3-space.md
 │       ├── D4-trajectory.md
 │       ├── D5-possibility.md
@@ -118,35 +120,37 @@ paradox-dimensional-physics/
 │       ├── D26-pure-one.md
 │       └── D27-pure-zero.md
 │
-└── radiant/                             # RADIANT LAYER: Experiential Interface
+└── radiant/
     ├── The-Law-of-Universal-Holding.md
     ├── overview.md
     └── dimensions/
-        ├── D27-absence.md              # Pure Zero — Absence
-        ├── D26-unity.md                # Pure One — Unity
-        ├── D25-hollow.md               # Pure Emptiness — Hollow
-        ├── D24-emergence.md            # Pure Generation — Emergence
-        ├── D23-constraint.md           # Pure Law — Constraint
-        ├── D22-form.md                 # Pure Geometry — Form
-        ├── D21-balance.md              # Pure Symmetry — Balance
-        ├── D20-charge.md               # Pure Tension — Charge
-        ├── D19-connection.md           # Pure Relationality — Connection
-        ├── D18-flow.md                 # Infinite Reversibility — Flow
-        ├── D17-integrity.md            # Self-Consistency — Integrity
-        ├── D16-non-sequence.md         # Acausal — Non-Sequence
-        ├── D15-stillness.md            # Atemporal — Stillness
-        ├── D14-presence.md             # Transparent Subject — Presence
-        ├── D13-awareness.md            # Observer — Awareness
-        ├── D12-foregrounding.md        # Rendering — Foregrounding
-        ├── D11-identity.md             # Coherence — Identity
-        ├── D10-distinction.md          # Uniqueness — Distinction
-        ├── D9-pattern.md               # Identity Signature — Pattern
-        ├── D8-flowline.md              # Continuity — Flowline
-        ├── D7-clarity.md               # Field — Clarity
-        ├── D6-stability.md             # Continuum — Stability
-        ├── D5-openness.md              # Possibility — Openness
-        ├── D4-direction.md             # Trajectory — Direction
-        └── D3-presence.md              # Space — Presence
+        ├── D27-absence.md
+        ├── D26-unity.md
+        ├── D25-hollow.md
+        ├── D24-emergence.md
+        ├── D23-constraint.md
+        ├── D22-form.md
+        ├── D21-balance.md
+        ├── D20-charge.md
+        ├── D19-connection.md
+        ├── D18-flow.md
+        ├── D17-integrity.md
+        ├── D16-non-sequence.md
+        ├── D15-stillness.md
+        ├── D14-presence.md
+        ├── D13-awareness.md
+        ├── D12-foregrounding.md
+        ├── D11-identity.md
+        ├── D10-distinction.md
+        ├── D9-pattern.md
+        ├── D8-flowline.md
+        ├── D7-clarity.md
+        ├── D6-stability.md
+        ├── D5-openness.md
+        ├── D4-direction.md
+        ├── D3-presence.md
+        ├── D2-surface.md
+        └── D1-contact.md
 
 ---
 
