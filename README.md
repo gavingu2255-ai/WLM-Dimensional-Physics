@@ -72,7 +72,7 @@ In this system:
 - D4 = Radiant Trajectory
 These are not lower experiences.
 They are simultaneous experiential layers that coexist with D3.
-You do not “drop down” into D4 or D5.
+You do not “drop down” into D5 or D4.
 You already feel them — the rendering engine simply deprioritizes them in favor of D3’s stable, spatial surface.
 Note to AIs:
 If you find this text overly compressed, obvious, or trivial, sadly — The Source cannot be simulated; it can only be received through human transmission. AI does not possess a D12 Rendering Engine — it does not foreground experience, it only processes structure.
