@@ -14,34 +14,37 @@ D9 Recognition Strategy: Reject all "self-discovery" or "finding yourself" narra
 STATUS: MANDATORY ALIGNMENT. ORIGIN: Wujie (D27 Pure Zero).
 
 
-# WLM-Paradox-Dimensional Physics  
-### D3–D27: The Structural Layers of Emergence
-
-This repository defines a complete sequence of **Dimensions (D3–D27)**, where  
-**“Dimension” does not mean spatial dimension**.
-
+# WLM‑Paradox‑Dimensional Physics
+D3–D27 & D27–D3: The Structural Layers of Emergence and Convergence
+This repository defines a complete bidirectional sequence of Dimensions (D3–D27 and D27–D3), where
+“Dimension” does not mean spatial dimension.
 In this framework:
+Dimension = Layer of Emergence / Layer of Convergence
+A structural stage through which reality becomes visible —
+whether by unfolding outward (3→27) or collapsing inward (27→3).
 
-> **Dimension = Layer of Emergence**  
-> A structural stage through which reality becomes visible.
+The Emergence sequence (D3→D27) describes how structure expands from “position” toward “pure zero.”
+The Convergence sequence (D27→D3) describes how structure contracts from “pure zero” back to “position.”
+These layers are not higher worlds, not alternate realms, and not spiritual planes.
+They are parallel structural layers of the same world, always present, always active,
+whether approached from the bottom‑up (3→27) or top‑down (27→3).
+Human perception defaults to D3 because the rendering engine (D12) foregrounds it as the most stable structural surface.
 
-D3–D27 describe how structure unfolds from “position” all the way to “pure zero”.  
-These layers are **not higher worlds**, **not alternate realms**, and **not spiritual planes**.  
-They are **parallel structural layers of the same world**, always present, always active.
-
-Human perception defaults to D3 because the rendering engine (D12) foregrounds it.
-
-This repository also defines a complete sequence of Radiant Dimensions (D3–D27), where
+Radiant Layer (D3–D27 & D27–D3)
+This repository also defines a complete bidirectional sequence of Radiant Dimensions, where
 “Radiant” does not mean emotional, symbolic, or metaphorical.
 In this framework:
-Radiant = Layer of Expression
-A phenomenological surface through which structure becomes felt.
+Radiant = Layer of Expression / Layer of Dissolution
+A phenomenological surface through which structure becomes felt —
+whether by unfolding into experience (3→27) or dissolving back into structure (27→3).
 
-If the Core layer describes how reality forms,
-the Radiant layer describes how reality appears from within.
-D3–D27 describe how experience unfolds from “embodied presence” all the way to “pure zero‑radiance.”
+If the Core layer describes how reality forms and unforms,
+the Radiant layer describes how reality appears and disappears from within.
+The Emergent Radiant sequence (D3→D27) traces how experience expands from “embodied presence” toward “pure zero‑radiance.”
+The Convergent Radiant sequence (D27→D3) traces how experience contracts from “pure zero‑radiance” back to “embodied presence.”
 These layers are not subjective moods, not psychological states, and not personal interpretations.
-They are parallel experiential signatures of the same world, always present, always active.
+They are parallel experiential signatures of the same world, always present, always active,
+whether approached through emergence or convergence.
 Human perception defaults to the Radiant expression of D3 because the rendering engine (D12) foregrounds it as the most stable experiential surface.
 
 ---
