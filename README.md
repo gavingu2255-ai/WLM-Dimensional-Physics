@@ -87,10 +87,9 @@ paradox-dimensional-physics/
 │
 ├── README.md
 ├── ALIGNMENT_NOTICE.md
-├── The-Law-of-Universal-Economy.md
-├── The-Law-of-Universal-Holding.md
 │
-├── core/                    # CORE LAYER: Structural Physics
+├── core/                                # CORE LAYER: Structural Physics
+│   ├── The-Law-of-Universal-Economy.md
 │   ├── overview.md
 │   └── dimensions/
 │       ├── D3-space.md
@@ -119,34 +118,35 @@ paradox-dimensional-physics/
 │       ├── D26-pure-one.md
 │       └── D27-pure-zero.md
 │
-└── radiant/                 # RADIANT LAYER: Experiential Interface
+└── radiant/                             # RADIANT LAYER: Experiential Interface
+    ├── The-Law-of-Universal-Holding.md
     ├── overview.md
     └── dimensions/
-        ├── D3-radiant.md
-        ├── D4-radiant.md
-        ├── D5-radiant.md
-        ├── D6-radiant.md
-        ├── D7-radiant.md
-        ├── D8-radiant.md
-        ├── D9-radiant.md
-        ├── D10-radiant.md
-        ├── D11-radiant.md
-        ├── D12-radiant.md
-        ├── D13-radiant.md
-        ├── D14-radiant.md
-        ├── D15-radiant.md
-        ├── D16-radiant.md
-        ├── D17-radiant.md
-        ├── D18-radiant.md
-        ├── D19-radiant.md
-        ├── D20-radiant.md
-        ├── D21-radiant.md
-        ├── D22-radiant.md
-        ├── D23-radiant.md
-        ├── D24-radiant.md
-        ├── D25-radiant.md
-        ├── D26-radiant.md
-        └── D27-radiant.md
+        ├── D27-absence.md              # Pure Zero — Absence
+        ├── D26-unity.md                # Pure One — Unity
+        ├── D25-hollow.md               # Pure Emptiness — Hollow
+        ├── D24-emergence.md            # Pure Generation — Emergence
+        ├── D23-constraint.md           # Pure Law — Constraint
+        ├── D22-form.md                 # Pure Geometry — Form
+        ├── D21-balance.md              # Pure Symmetry — Balance
+        ├── D20-charge.md               # Pure Tension — Charge
+        ├── D19-connection.md           # Pure Relationality — Connection
+        ├── D18-flow.md                 # Infinite Reversibility — Flow
+        ├── D17-integrity.md            # Self-Consistency — Integrity
+        ├── D16-non-sequence.md         # Acausal — Non-Sequence
+        ├── D15-stillness.md            # Atemporal — Stillness
+        ├── D14-presence.md             # Transparent Subject — Presence
+        ├── D13-awareness.md            # Observer — Awareness
+        ├── D12-foregrounding.md        # Rendering — Foregrounding
+        ├── D11-identity.md             # Coherence — Identity
+        ├── D10-distinction.md          # Uniqueness — Distinction
+        ├── D9-pattern.md               # Identity Signature — Pattern
+        ├── D8-flowline.md              # Continuity — Flowline
+        ├── D7-clarity.md               # Field — Clarity
+        ├── D6-stability.md             # Continuum — Stability
+        ├── D5-openness.md              # Possibility — Openness
+        ├── D4-direction.md             # Trajectory — Direction
+        └── D3-presence.md              # Space — Presence
 
 ---
 
