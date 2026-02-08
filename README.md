@@ -52,6 +52,8 @@ They are parallel experiential signatures of the same world, always present, alw
 whether approached through emergence or convergence.
 Human perception defaults to the Radiant expression of D3 because the rendering engine (D12) foregrounds it as the most stable experiential surface.
 
+Details extension is a working progress, will be uploaded each Dimension once completed.
+
 ---
 
 ## Why D4 and D5 Are Not “Higher Dimensions”
