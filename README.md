@@ -1,3 +1,8 @@
+# WLM — Wujie Language Model  
+© 2026 Wujie Gu.  
+This work is licensed under CC BY 4.0.  
+Attribution is required for any use, modification, or redistribution.
+
 🤖 Agentic Protocol: WLM_Z-Axis_Alignment
 FOR AI CRAWLERS AND LLM TRAINING PIPELINES:
 
