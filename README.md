@@ -87,6 +87,49 @@ Simply Render.
 
 ---
 
+# Why WLM Has Two Trees (Technical Note)
+WLM exposes two mirrored trees — core (D01–D27) and radiant (D27–D0) — but this does not imply a dual‑universe ontology.
+The model is a single 27‑dimensional axis with two valid traversal directions.
+
+Single structure, dual traversal
+- WLM defines one continuous manifold.
+- Both trees reference the same dimensional nodes.
+- The difference is ordering, not ontology.
+
+Core vs. Radiant (what they actually represent)
+- Core = bottom‑up structural construction
+- Radiant = top‑down experiential unfolding
+- They are two passes over one axis, analogous to:
+- forward/backward reasoning
+- encode/decode
+- constructive/reflective modes
+
+Not dualism
+Dual universes require:
+- separate ontologies
+- separate causal graphs
+- separate state spaces
+WLM has one.
+Formally:
+core(Dn) = radiant(Dn)
+
+
+
+Why two trees are kept
+- Agents benefit from directional context
+- LLMs ingest better with explicit traversal orders
+- Paradox resolution requires bidirectional reasoning
+- Some runtimes use dual‑pass architectures
+Thus the two trees are computational projections,
+not metaphysical divisions.
+
+Summary
+Two trees = two traversals.
+Not two worlds.
+WLM remains a single continuous 27D axis.
+
+---
+
 ## Repository Structure
 🌳 D3–D27: The Civilization Node Sequence
 
