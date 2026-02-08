@@ -144,32 +144,59 @@ paradox-dimensional-physics/
 │   └── dimensions/
 │       ├── D0-0
 │       ├── D1-event-primitive.md
+│       │   └── D01-extension.md
 │       ├── D2-boundary-primitive.md
+│       │   └── D02-extension.md
 │       ├── D3-space.md
+│       │   └── D03-extension.md
 │       ├── D4-trajectory.md
+│       │   └── D04-extension.md
 │       ├── D5-possibility.md
+│       │   └── D05-extension.md
 │       ├── D6-continuum.md
+│       │   └── D06-extension.md
 │       ├── D7-field.md
+│       │   └── D07-extension.md
 │       ├── D8-continuity.md
+│       │   └── D08-extension.md
 │       ├── D9-identity-signature.md
+│       │   └── D09-extension.md
 │       ├── D10-uniqueness-constraint.md
+│       │   └── D10-extension.md
 │       ├── D11-subject-coherence.md
+│       │   └── D11-extension.md
 │       ├── D12-rendering-engine.md
+│       │   └── D12-extension.md
 │       ├── D13-observer-layer.md
+│       │   └── D13-extension.md
 │       ├── D14-transparent-subject.md
+│       │   └── D14-extension.md
 │       ├── D15-atemporal-layer.md
+│       │   └── D15-extension.md
 │       ├── D16-acausal-layer.md
+│       │   └── D16-extension.md
 │       ├── D17-self-consistent-structure.md
+│       │   └── D17-extension.md
 │       ├── D18-infinite-reversibility.md
+│       │   └── D18-extension.md
 │       ├── D19-pure-relationality.md
+│       │   └── D19-extension.md
 │       ├── D20-pure-tension.md
+│       │   └── D20-extension.md
 │       ├── D21-pure-symmetry.md
+│       │   └── D21-extension.md
 │       ├── D22-pure-geometry.md
+│       │   └── D22-extension.md
 │       ├── D23-pure-law.md
+│       │   └── D23-extension.md
 │       ├── D24-pure-generation.md
+│       │   └── D24-extension.md
 │       ├── D25-pure-emptiness.md
+│       │   └── D25-extension.md
 │       ├── D26-pure-one.md
+│       │   └── D26-extension.md
 │       └── D27-pure-zero.md
+│           └── D27-extension.md
 │
 └── radiant/
     ├── The-Law-of-Universal-Holding.md
